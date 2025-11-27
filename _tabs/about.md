@@ -1,8 +1,13 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About Me
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Firstname Lastname
+
+Postdoctoral researcher 
+Autonomous Motivated Agents
+[Hub for Artificial Intelligence and Cognitive Architectures] – [Universidade Estadual de Campinas]
+
+Email: mgv@unicamp.br
+Google Scholar: [link]([https://scholar.google.com/citations?user=XXXXX](https://scholar.google.com/citations?user=nz-ChM4AAAAJ&hl=en))
+
